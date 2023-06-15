@@ -1,0 +1,41 @@
+
+
+.carousel_wrapper {
+    margin: 20px;
+}
+
+.carousel_heading {
+    font-size: 20px;
+    background-color: #010050;
+}
+
+.carousel-item {
+    max-width: 30vw;
+    height: auto;
+}
+
+.carousel-caption {
+    height: 80%;
+    background-color: rgba(0, 0, 0, .8);
+}
+
+.carousel_link {
+    background-color: rgba(0, 0, 0);
+    margin: 0% 20%;
+}
+
+.carousel-control-prev-icon, .carousel-control-next-icon {
+    background-color: rgba(0, 0, 0, .8);
+}
+
+@media screen and (max-width: 1580px) {
+    .carousel-item {
+        max-width: 100%;
+        height: auto;
+    }
+
+    .carousel-caption {
+        height: 80%;
+        background-color: rgba(0, 0, 0, .8);
+    }
+}

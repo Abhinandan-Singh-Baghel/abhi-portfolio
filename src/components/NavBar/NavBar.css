@@ -1,0 +1,13 @@
+.navbar {
+   font-size: 20px;
+   padding: 10px;
+}
+
+.navbar-brand {
+    font-family: 'Kumar One Outline', cursive;
+}
+
+.nav-link {
+    font-family: 'Inconsolata', monospace;
+    color: white !important;
+}
