@@ -23,7 +23,7 @@ const ContactPage = () => {
             <div className="spotify_embed">
                 <p> My coding music </p>
                 <iframe className="sp"
-                    src="https://open.spotify.com/embed/artist/2NFrAuh8RQdQoS7iYFbckw"
+                    src="https://open.spotify.com/embed/artist/1Xyo4u8uXC1ZmMpatF05PJ"
                     width="300" height="380" title="the_midnight"
                     frameborder="0" allowtransparency="true"
                     allow="encrypted-media">
