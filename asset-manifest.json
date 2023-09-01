@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/abhi-portfolio/static/css/main.368a62a6.css",
-    "main.js": "/abhi-portfolio/static/js/main.2afa53f4.js",
+    "main.js": "/abhi-portfolio/static/js/main.15cc54f5.js",
     "static/media/wave.jpg": "/abhi-portfolio/static/media/wave.b6606210661ec1aedd4d.jpg",
     "static/media/clicky-game.png": "/abhi-portfolio/static/media/clicky-game.239dcd293b4889cc761b.png",
     "static/media/DinnerBell.png": "/abhi-portfolio/static/media/DinnerBell.372c087de6b4a9c605cf.png",
@@ -14,10 +14,10 @@
     "static/media/liri_node_app.jpg": "/abhi-portfolio/static/media/liri_node_app.b47866c3c8f7dfa68af8.jpg",
     "index.html": "/abhi-portfolio/index.html",
     "main.368a62a6.css.map": "/abhi-portfolio/static/css/main.368a62a6.css.map",
-    "main.2afa53f4.js.map": "/abhi-portfolio/static/js/main.2afa53f4.js.map"
+    "main.15cc54f5.js.map": "/abhi-portfolio/static/js/main.15cc54f5.js.map"
   },
   "entrypoints": [
     "static/css/main.368a62a6.css",
-    "static/js/main.2afa53f4.js"
+    "static/js/main.15cc54f5.js"
   ]
 }
