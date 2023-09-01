@@ -40,6 +40,13 @@ const AboutMe = () => {
                         </div>
                         <div className="card-content">
                             <p>
+                                2025 <br />
+                                Indian Institute of Technology, Kanpur <br />
+                                
+                                Computer Science Engineering(Cybersecurity).
+                            </p>
+                            
+                            <p>
                                 2023 <br />
                                 Oriental Institute of Science and Technology <br />
                                 Bhopal <br />
