@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/abhi-portfolio/static/css/main.368a62a6.css",
+    "main.js": "/abhi-portfolio/static/js/main.15cc54f5.js",
+    "static/media/wave.jpg": "/abhi-portfolio/static/media/wave.b6606210661ec1aedd4d.jpg",
+    "static/media/clicky-game.png": "/abhi-portfolio/static/media/clicky-game.239dcd293b4889cc761b.png",
+    "static/media/DinnerBell.png": "/abhi-portfolio/static/media/DinnerBell.372c087de6b4a9c605cf.png",
+    "static/media/api-site.jpg": "/abhi-portfolio/static/media/api-site.dfcbd3947d00588588c7.jpg",
+    "static/media/eat_da_burger.jpg": "/abhi-portfolio/static/media/eat_da_burger.84fe2723e63e28903d70.jpg",
+    "static/media/crystals.jpg": "/abhi-portfolio/static/media/crystals.56f70de796838605fec5.jpg",
+    "static/media/newsday_headlines.jpg": "/abhi-portfolio/static/media/newsday_headlines.a8a6da9859f51cdc4d28.jpg",
+    "static/media/pouches.jpg": "/abhi-portfolio/static/media/pouches.61db79b279908e5dcae7.jpg",
+    "static/media/node_mysql_store.jpg": "/abhi-portfolio/static/media/node_mysql_store.c2f9fa33dfd817953656.jpg",
+    "static/media/liri_node_app.jpg": "/abhi-portfolio/static/media/liri_node_app.b47866c3c8f7dfa68af8.jpg",
+    "index.html": "/abhi-portfolio/index.html",
+    "main.368a62a6.css.map": "/abhi-portfolio/static/css/main.368a62a6.css.map",
+    "main.15cc54f5.js.map": "/abhi-portfolio/static/js/main.15cc54f5.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.368a62a6.css",
+    "static/js/main.15cc54f5.js"
+  ]
+}
