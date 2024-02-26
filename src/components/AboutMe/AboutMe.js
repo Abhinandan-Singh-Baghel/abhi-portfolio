@@ -15,21 +15,18 @@ const AboutMe = () => {
                         </div>
                         <div className="card-content">
                             <p>
-                                Front End <br />
-                                HTML5, CSS3, JavaScript, jQuery, React, Bootstrap
+                                Development <br />
+                                Node.js , Express , Postgres , Mongo , Typescript , Tailwind , Docker , Next.js , React
                             </p>
                             <p>
-                                Back End <br />
-                                Node.js, Express, Postman, Mongoose, RESTful APIs, CRUD Operations
+                                Devops <br />
+                                Docker , Nginx , Advanced Backend , System Design 
                             </p>
                             <p>
-                                Database <br />
-                                MongoDB, MySQL
+                                Advanced Devops, System Design <br />
+                                Kubernetes , CI?CD  , Promhetheus , Grafana , AWS Constructs (EC2, S2, CDNs, LB, EKS), 
                             </p>
-                            <p>
-                                Other <br />
-                                Git, Github
-                            </p>
+                            
                         </div>
                     </div>
                 </div>
@@ -46,12 +43,6 @@ const AboutMe = () => {
                                 Computer Science Engineering(Cybersecurity).
                             </p>
                             
-                            <p>
-                                2023 <br />
-                                Oriental Institute of Science and Technology <br />
-                                Bhopal <br />
-                                Electronics and Communication Engineering.
-                            </p>
                             
                         </div>
                     </div>

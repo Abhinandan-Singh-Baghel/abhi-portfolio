@@ -12,7 +12,7 @@ const LandingPage = () => {
                 <div className="lp_text text-center">
                     <p>Hi! My name is Abhinandan Singh Baghel. 
                         <br /> 
-                        I'm a full stack web developer / open source contributor <br />
+                       I am a CyberPunk <br />
                     </p>
                 </div>
             </div>
