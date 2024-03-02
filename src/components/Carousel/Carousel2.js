@@ -13,14 +13,14 @@ const Carousel2 = () => {
                         <img className="d-block img-fluid" src={require('./images/liri_node_app.jpg')} alt="First slide" />
                         <div class="carousel-caption d-sm-block">
                             <h5>LIRI Node App</h5>
-                            <p className="carousel_link"><a href="https://github.com/patlehmann1/liri-node-app/" target="_blank" rel="noopener noreferrer">Repo Link</a></p>
+                            <p className="carousel_link"><a href="https://github.com/Abhinandan-Singh-Baghel/Liri-Node-App" target="_blank" rel="noopener noreferrer">Repo Link</a></p>
                         </div>
                     </div>
                     <div className="carousel-item">
                         <img className="d-block img-fluid" src={require('./images/node_mysql_store.jpg')} alt="Second slide" />
                         <div class="carousel-caption d-sm-block">
                             <h5>Bamazon: Node/MySQL Store</h5>
-                            <p className="carousel_link"><a href="https://github.com/patlehmann1/node_mysql_store/" target="_blank" rel="noopener noreferrer">Repo Link</a></p>
+                            <p className="carousel_link"><a href="https://github.com/Abhinandan-Singh-Baghel/Bamazon" target="_blank" rel="noopener noreferrer">Repo Link</a></p>
                         </div>
                     </div>
                 </div>
