@@ -13,16 +13,16 @@ const Carousel1 = () => {
                         <img className="d-block img-fluid" src={require('./images/api-site.jpg')} alt="First slide" />
                         <div class="carousel-caption d-sm-block">
                             <h5>Favorite Food and Drink GIFs!</h5>
-                            <p className="carousel_link"><a href="https://github.com/patlehmann1/api-site/" target="_blank" rel="noopener noreferrer">Repo Link</a></p>
-                            <p className="carousel_link"><a href="https://patlehmann1.github.io/api-site" target="_blank" rel="noopener noreferrer">Deployed</a></p>
+                            <p className="carousel_link"><a href="https://github.com/Abhinandan-Singh-Baghel/api-site" target="_blank" rel="noopener noreferrer">Repo Link</a></p>
+                            <p className="carousel_link"><a href="https://abhinandan-singh-baghel.github.io/api-site/" target="_blank" rel="noopener noreferrer">Deployed</a></p>
                         </div>
                     </div>
                     <div className="carousel-item">
                         <img className="d-block img-fluid" src={require('./images/clicky-game.png')} alt="Second slide" />
                         <div class="carousel-caption d-sm-block">
                         <h5>Puppy Memory Game</h5>
-                            <p className="carousel_link"><a href="https://github.com/patlehmann1/clicky-game/" target="_blank" rel="noopener noreferrer">Repo Link</a></p>
-                            <p className="carousel_link"><a href="https://patlehmann1.github.io/clicky-game/" target="_blank" rel="noopener noreferrer">Deployed</a></p>
+                            <p className="carousel_link"><a href="https://github.com/Abhinandan-Singh-Baghel/clicky-game-master" target="_blank" rel="noopener noreferrer">Repo Link</a></p>
+                            <p className="carousel_link"><a href="https://abhinandan-singh-baghel.github.io/clicky-game-master/" target="_blank" rel="noopener noreferrer">Deployed</a></p>
                         </div>
                     </div>
                     {/* <div className="carousel-item">
@@ -37,8 +37,8 @@ const Carousel1 = () => {
                         <img className="d-block img-fluid" src={require('./images/crystals.jpg')} alt="Fourth slide" />
                         <div class="carousel-caption d-sm-block">
                         <h5>Crystals Collector</h5>
-                            <p className="carousel_link"><a href="https://github.com/patlehmann1/unit-4-game/" target="_blank" rel="noopener noreferrer">Repo Link</a></p>
-                            <p className="carousel_link"><a href="https://patlehmann1.github.io/unit-4-game/" target="_blank" rel="noopener noreferrer">Deployed</a></p>
+                            <p className="carousel_link"><a href="https://github.com/Abhinandan-Singh-Baghel/unit-4-game-master" target="_blank" rel="noopener noreferrer">Repo Link</a></p>
+                            <p className="carousel_link"><a href="https://abhinandan-singh-baghel.github.io/unit-4-game-master/" target="_blank" rel="noopener noreferrer">Deployed</a></p>
                         </div>
                     </div>
                     {/* <div className="carousel-item">
